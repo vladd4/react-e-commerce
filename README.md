@@ -1,4 +1,7 @@
 <p align="center">
+   React Sneakers E-commerce Website
+</p>
+<p align="center">
    <img src="https://img.shields.io/badge/React%20Version-18.2.0-blue" alt="React Version">
     <img src="https://img.shields.io/badge/Project%20Version-1.0.0-green" alt="Project Version">
 </p>
