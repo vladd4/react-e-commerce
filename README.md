@@ -8,7 +8,7 @@
 
 ## About
 It is a simple e-commerce website of sneakers using React JS, Bootstrap 5, HTML/CSS/JS.
-You can add/remove products to cart and move them to bookmarks. Bookmarks page is realised using React Router. Website is using LocalStorage to store user cart products and bookmarks regardless of site reload. Website is mobile-first and adaptated for all other devices using Bootstrap 5 and CSS Media Queries.
+You can add/remove products to cart and move them to bookmarks. Cart items are sending to the test JSONPlaceholder API by clicking cart button. Bookmarks page is realised using React Router. Website is using LocalStorage to store user cart products and bookmarks regardless of site reload. Website is mobile-first and adaptated for all other devices using Bootstrap 5 and CSS Media Queries.
 
 ## Available Scripts
 
