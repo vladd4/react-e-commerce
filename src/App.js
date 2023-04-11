@@ -17,6 +17,7 @@ import Img10 from "../src/imgs/image 6 (5).jpg";
 import Cart from "./components/Cart";
 import Like from "./components/Like";
 import Modal from "./components/Modal";
+import Footer from "./components/Footer";
 
 function App() {
   let [items, setItems] = useState([
@@ -132,6 +133,7 @@ function App() {
                   setLikes={setLikes}
                   likes={likes}
                 ></SneakersList>
+                <Footer></Footer>
               </>
             }
           ></Route>
