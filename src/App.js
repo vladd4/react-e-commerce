@@ -18,6 +18,7 @@ import Cart from "./components/Cart";
 import Like from "./components/Like";
 import Modal from "./components/Modal";
 import Footer from "./components/Footer";
+import Totop from "./components/Totop";
 
 function App() {
   let [items, setItems] = useState([
@@ -133,6 +134,7 @@ function App() {
                   setLikes={setLikes}
                   likes={likes}
                 ></SneakersList>
+                <Totop></Totop>
                 <Footer></Footer>
               </>
             }
