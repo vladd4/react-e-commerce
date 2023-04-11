@@ -1,13 +1,11 @@
 <p align="center">
-   <img src="" alt="React Version">
-   <img src="" alt="Project Version">
+   <img src="https://img.shields.io/badge/React%20Version-18.2.0-blue" alt="React Version">
+    <img src="https://img.shields.io/badge/Project%20Version-1.0.0-green" alt="Project Version">
 </p>
 
 ## About
 It is a simple e-commerce website of sneakers using React JS, Bootstrap 5, HTML/CSS/JS.
 You can add/remove products to cart and move them to bookmarks. Bookmarks page is realised using React Router. Website is using LocalStorage to store user cart products and bookmarks regardless of site reload. Website is mobile-first and adaptated for all other devices using Bootstrap 5 and CSS Media Queries.
-
-## Documentation
 
 ## Available Scripts
 
@@ -47,5 +45,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Developers
-- [https://github.com/vladd4](GitHub Profile Link)
+- [https://github.com/vladd4]
 
